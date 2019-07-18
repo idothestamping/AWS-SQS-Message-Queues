@@ -20,7 +20,7 @@ import java.util.Map.Entry;
  * <p>
  * Make sure that your credentials are located in ~/.aws/credentials
  */
-public class SQSClient {
+public class SampleSQSClient {
     public static void main(String[] args) {
 
         /*
